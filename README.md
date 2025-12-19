@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hello 👋
 
-🌱 University of Rochester
+🎓 University of Rochester
 
 😄 Pronouns: he/him
 
-⚡ TFT Phenom
+⚡ Teamfight Tactics Phenom
 <!--
 **cephalopodsrule/cephalopodsrule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
